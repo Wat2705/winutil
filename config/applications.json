@@ -853,6 +853,15 @@
         "winget": "Microsoft.NuGet",
         "foss": true
     },
+    "nvm": {
+        "category": "Development",
+        "choco": "nvm",
+        "content": "Node Version Manager",
+        "description": "Node Version Manager (NVM) for Windows allows you to easily switch between multiple Node.js versions.",
+        "link": "https://github.com/coreybutler/nvm-windows",
+        "winget": "CoreyButler.NVMforWindows",
+        "foss": true
+    },
     "nvclean": {
         "category": "Utilities",
         "choco": "na",
